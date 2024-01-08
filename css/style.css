@@ -1,0 +1,9 @@
+/* Importation de la font metropolis depuis le site www.cdnfonts.com */
+@import url('https://fonts.cdnfonts.com/css/metropolis-2');
+
+
+body{
+    font-family: 'Metropolis', sans-serif;
+}
+
+
