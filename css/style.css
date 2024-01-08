@@ -17,3 +17,75 @@ body{
     font-weight: 900;
     font-size: 4rem;
 }
+.containAlignment {
+	display: flex;
+	flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+.sidebarcol{
+    background-color: #000017;
+    padding: 2rem;
+}
+.new{
+    font-size: 2.4rem;
+    text-transform: capitalize;
+    font-weight: 800;
+}
+.linktitle{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: white;
+    font-weight: 600;
+    font-size: 1.3rem;
+}
+.linktitle:hover{
+    color: #e4a84f;
+}
+.soustitre{
+    color: #ececec;
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 1.8;
+}
+.trai{
+    color: #fff;
+}
+.buttonStype{
+    border-radius: 0;
+    width: 50%;
+    border: 0;
+    font-size: 0.85rem;
+    background-color: #f15d51;
+    color: #fff;
+    font-weight: 500;
+    letter-spacing: 6px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-transform: uppercase;
+}
+.buttonStype:hover{
+    background-color: #000017;
+}
+.linktitledark{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #000017;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+.linktitledark:hover{
+    color: #f15d51;
+}
+.containumber {
+	display: flex;
+	flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    padding: 0 1.6rem;
+}
+.number{
+    color: #c1c1c1;
+    font-size: 1.8rem;
+    font-weight: 900;
+}
