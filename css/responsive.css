@@ -2,6 +2,15 @@
     .TheBright{
         font-size: 3.4rem !important;
     }
+    .linktitle{
+      font-size: 1rem;
+    }
+    .margesection{
+      margin-top: 1rem;
+    }
+    .paragrapnumber{
+      font-size: 0.9rem;
+    }
   }
 
 @media only screen and (max-width: 990px) {
@@ -11,11 +20,26 @@
     .mergerespo{
       margin-top: 2rem;
     }
-    .mergerespo2{
-        margin-top: 2rem;
-      }
-    
     .sidebarcol{
         padding: 1rem;
+    }
+    .margesection{
+      margin-top: 0.5rem;
+    }
+    .paragrapnumber{
+      font-size: 1rem;
+    }
+    .soustitre{
+      color: #ececec;
+      font-weight: 300;
+      font-size: 0.85rem;
+      line-height: 1.4;
+    }
+    .linktitle{
+      text-decoration: none;
+    text-transform: capitalize;
+    color: white;
+    font-weight: 600;
+    font-size: 1rem;
     }
   }

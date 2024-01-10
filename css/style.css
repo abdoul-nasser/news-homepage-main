@@ -96,3 +96,11 @@ body{
 .mergerespo2{
     margin-top: 2rem;
 }
+.margesection{
+    margin-top: 2rem;
+}
+.paragrapnumber{
+    font-size: 1rem;
+    line-height: 1.2;
+    margin-bottom: 0;
+  }
