@@ -46,7 +46,7 @@ body{
     color: #ececec;
     font-weight: 300;
     font-size: 1rem;
-    line-height: 1.8;
+    line-height: 1.6;
 }
 .trai{
     color: #fff;
@@ -75,6 +75,13 @@ body{
     font-size: 1rem;
 }
 .linktitledark:hover{
+    color: #f15d51;
+}
+.nav-link{
+    font-size: 400;
+    font-size: 1rem;
+}
+.nav-link:hover{
     color: #f15d51;
 }
 .containumber {
